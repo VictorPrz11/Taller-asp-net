@@ -47,4 +47,3 @@ Comandos para ejecucion
         https://localhost:5001
 
   *Victor Perez*
-  ![alt text](image.png)
