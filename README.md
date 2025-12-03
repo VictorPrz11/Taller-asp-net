@@ -52,7 +52,6 @@ Antes de ejecutar el proyecto debes tener instalado:
 * C#
 * Entity Framework Core
 * SQL Server
-* React (frontend)
 * HTML, CSS, JavaScript
 * Git y GitHub para control de versiones
 
